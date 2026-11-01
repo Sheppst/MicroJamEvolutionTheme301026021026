@@ -31,3 +31,10 @@ public enum Intensty
     Stormy,
     Chaotic
 }
+
+public enum Tree
+{
+    TreeAlpha,
+    TreeBeta,
+    TreeOmega
+}
