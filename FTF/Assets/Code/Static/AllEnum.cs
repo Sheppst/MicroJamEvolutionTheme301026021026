@@ -24,7 +24,7 @@ public enum Months
     Dec,
 }
 
-public enum Intensty
+public enum Intensity
 {
     Calm,
     Unsettled,
