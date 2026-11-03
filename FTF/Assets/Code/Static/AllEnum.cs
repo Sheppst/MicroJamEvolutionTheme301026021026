@@ -1,4 +1,5 @@
-
+using System.Collections.Generic;
+using UnityEngine;
 public enum Seasons
 {
     Winter,
@@ -37,4 +38,12 @@ public enum Tree
     TreeAlpha,
     TreeBeta,
     TreeOmega
+}
+
+public enum Pollen
+{
+    Bud,
+    Button,
+    Flower,
+    Fruit
 }
